@@ -1,4 +1,6 @@
-<iframe src="https://xbeibeix.com/api/bilibili/biliplayer/?url=BV1vE41127Cs" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+<div style="position: relative; padding: 30% 45%;">
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://www.bilibili.com/video/BV1vE41127Cs?from=search&seid=10440456266388508124" frameborder="no" scrolling="no"></iframe>
+</div>
 
 
 WX：sdwhszq
