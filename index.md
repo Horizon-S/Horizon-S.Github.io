@@ -1,8 +1,4 @@
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=520 height=86 src="//music.163.com/outchain/player?type=2&id=1446791775&auto=1&height=66"></iframe>
-
-
-
-
+<iframe src="https://xbeibeix.com/api/bilibili/biliplayer/?url=BV1vE41127Cs" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
 
 WX：sdwhszq
